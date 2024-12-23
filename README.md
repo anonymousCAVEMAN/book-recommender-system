@@ -32,7 +32,7 @@ The project is built using three datasets:
 
 - Filter users with more than 200 ratings:
 ```bash
-http rating_With_name.groupby('User-ID').count()['Book-Rating'] > 200
+rating_With_name.groupby('User-ID').count()['Book-Rating'] > 200
 
 ```
 - Filter books with more than 50 ratings:
