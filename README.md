@@ -91,6 +91,10 @@ python app.py
 - look at navbar there will be recommend books option select it and make search
 - Use the search bar to enter a book title and get recommendations.
 - Browse the top 50 books listed on the homepage.
+# Acknowledgements
+ - [Flask Documentation](https://flask.palletsprojects.com/en/stable/)
+ - [cosine-smilarity](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html)
+ - [youtube](https://www.youtube.com/watch?v=1YoD0fg3_EM&t=2669s&ab_channel=CampusX)
 
 # Future Enhancements
 
