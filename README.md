@@ -3,9 +3,9 @@
 
 This repository contains a book recommender system that uses two different techniques to suggest books:
 
-    1. Popularity-Based Recommender System
+ 1. Popularity-Based Recommender System
 
-    2. Collaborative Filtering Recommender System
+2. Collaborative Filtering Recommender System
 
 The project is built using three datasets:
 
