@@ -5,7 +5,7 @@ This repository contains a book recommender system that uses two different techn
 
  1. Popularity-Based Recommender System
 
-2. Collaborative Filtering Recommender System
+ 2. Collaborative Filtering Recommender System
 
 The project is built using three datasets:
 
@@ -24,9 +24,9 @@ The project is built using three datasets:
 -----------
 ## Popularity-Based Recommender
 
--Group the ratings by Book-Title and count the number of ratings.
+- Group the ratings by Book-Title and count the number of ratings.
 
--Sort the books by the highest number of ratings to identify the top 50.
+- Sort the books by the highest number of ratings to identify the top 50.
 
 ## Collaborative Filtering Recommender
 
